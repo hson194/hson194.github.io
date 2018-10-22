@@ -1,0 +1,40 @@
+h1,h2 {
+	color:blue;
+	text-align:left;
+}
+a:visited 
+{
+	color: #cc3399;
+	text-decoration:none;
+}
+a:link 
+{ 
+	color: blue; 
+	text-decoration:none;
+}
+a:hover 
+{ 
+	color: red; 
+}
+a:active 
+{
+	color: green;
+}
+p::first-letter{
+	text-transform: uppercase;
+}
+#anh{
+	width: 300px;
+	border:solid;
+	border-color: orange;
+	border-width: 5px;
+	height: 180px;
+}
+img{
+	max-width: 500px;
+	border-radius: 15%;
+	border:solid;
+	border-color: white;
+	border-width: 5px;
+	height: 360px;
+}
