@@ -1,0 +1,37 @@
+img { max-width:100%;}
+img:hover
+{border-radius:25%;}
+h2 {text-align:center;}
+p{
+	height: 1000px;
+}
+a:link 
+{ 
+	color: blue; 
+}
+a:hover 
+{ 
+	color: red; 
+}
+a:active 
+{
+	color: green;
+}
+a:visited 
+{
+	color: grey;
+}
+/*#dv1:hover
+{color:blue;}
+#dv2:hover{
+	color:red;
+}*/
+.pa2:hover{
+	color:purple;
+}
+p::after{
+	content:"chang co gi";
+}
+p.pa2::before{
+	content:"Noi dung la : ";
+}
