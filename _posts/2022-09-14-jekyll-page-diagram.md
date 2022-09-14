@@ -1,1 +1,1 @@
-<img src="assets/images/jekyll_pages_diagram.png" alt="jekyll-diagram">
+<img src="{{site.baseurl}}/assets/images/jekyll_pages_diagram.jpg" alt="jekyll-diagram">
