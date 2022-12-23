@@ -83,8 +83,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media-exp1.licdn.com/dms/image/C5603AQEmxbRbnXGYBg/profile-displayphoto-shrink_200_200/0/1614254492229?e=1666828800&v=beta&t=BlYWP9gwLSy_Uh8MpDxLrjgTN2hnLACl7AwEPFrS1Dg
-
+avatar: https://s3.ap-southeast-1.amazonaws.com/sendauroi.com/avatar.jpeg
 # boolean type, the global switch for ToC in posts.
 toc: true
 
